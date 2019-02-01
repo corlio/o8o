@@ -1,0 +1,22 @@
+ol {
+  padding-left: 2em;
+}
+ul {
+  list-style: disc inside;
+  padding-left: 1em;
+}
+ul > li {
+  text-indent: -1em;
+  padding-left: 1em;
+}
+.centered {
+  text-align: center;
+}
+.multi-column {
+  -webkit-column-width: 280px;
+     -moz-column-width: 280px;
+          column-width: 280px;
+}
+a {
+  text-decoration: none;
+}
